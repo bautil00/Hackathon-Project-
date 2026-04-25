@@ -1,7 +1,7 @@
 # Hackathon-Project-
 
 ## Project name
-Name
+Prevailing Projects
 
 60 characters left
 ## Elevator pitch
@@ -10,6 +10,7 @@ Provide a short tagline for the project. You can change this later.
 
 ## Project Story
 Be sure to write what inspired you, what you learned, how you built your project, and the challenges you faced. Format your story in Markdown, with LaTeX support for math.
+I was inspired CyberPunk's abymsall release. I recongized that these failures, issues and challenges happen at every level. This inspired
 
 ## What main track have you chosen?
 See https://uwbhacks.com for more info — Appears in project gallery
