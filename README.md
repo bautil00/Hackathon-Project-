@@ -3,9 +3,7 @@
 ## Project name
 Prevailing Projects
 
-60 characters left
 ## Elevator pitch
-Provide a short tagline for the project. You can change this later.
 Have you ever failed a project? Chances are you have as 70% of all projects fail. This is not because of a lack of effort or incompetence, but because of unforeseen factors which are preventing you from performing at your fullest. 
 
 ## Project Story
@@ -24,13 +22,13 @@ We learned how to work within a tight timeline and compromise as a team. As well
 ### What's next for Prevailing Projects
 The next steps would be implementing the AI. It would include things such as breaking down your project into 4 categories in time, budget, communication and a created success rate. This would then highlight the areas of improvement needed for your success and implement 3 bullet points of ways to improve your project success rate now. 
 
-
 ## What main track have you chosen?
 We have choosen the Avanade Business Solutions(No Code)
 
 ## * List all of the universities or schools that your team members currently attend. 
 University of Washington Bothell
 Cascadia College
+
 ## Which of the following AI tools did you use this weekend?
 We used OpenAI, Google Gemini, Deepseek, and Claude. 
 
